@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full tack developer and architect alo intreted in BCI tech projct
+I'm a Full tack developer and architect alo intrested in BCI tech project
 
 
 # 💻 Tech Stack:
